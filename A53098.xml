@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Captain Charles Newey's vvonderful discovery, of several remarkable and strange things of great consequence to which is added his case and vindication, about his having 18 wives, subornation, and hanging the gallows in mourning, and other remarkable circumstances.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53098</idno>
+            <idno type="STC">Wing N918</idno>
+            <idno type="STC">ESTC R17241</idno>
+            <idno type="EEBO-CITATION">11861838</idno>
+            <idno type="OCLC">ocm 11861838</idno>
+            <idno type="VID">50017</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50017)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 503:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Captain Charles Newey's vvonderful discovery, of several remarkable and strange things of great consequence to which is added his case and vindication, about his having 18 wives, subornation, and hanging the gallows in mourning, and other remarkable circumstances.</title>
+                  <author>Newey, Charles.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jer. Wilkins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newey, Charles.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50017:1"/>
+            <head>Captain Charles Newey's, VVonderful Diſcovery, of ſeveral Remarkable and ſtrange Things of great Conſequence. To which is added his CASE and VINDICATION, About his having 18 Wives, Subornation, and Hanging the <hi>Gallows</hi> in Mourning, and other Remarkable Circumſtances.</head>
+            <opener>ARTICLE,</opener>
+            <p n="1">1. ABout the latter end of <hi>October</hi> 1699, the ſaid <hi>Charles Newey,</hi> having Occaſion to go into the Country, deſired Permiſſion of his Brother, Mr. <hi>John Newey,</hi> to leave ſome Trunks in his Cuſtody, untill his return, in which were ſeveral valuable Wearing Cloathes, Linen Papers, <hi>&amp;c</hi> the ſaid Trunks be<g ref="char:EOLhyphen"/>ing broke open, and divers of the ſaid Goods found want<g ref="char:EOLhyphen"/>ing at his return, and finding his ſaid Brother, in ſtead of making him any Satisfaction, to Treat him with very abu<g ref="char:EOLhyphen"/>ſive and provoking Words, and having reported to Mr. <hi>Ferrour</hi> at the <hi>Tobacco-Rowl</hi> in <hi>Newgate-market</hi> that the Cap<g ref="char:EOLhyphen"/>tains Lady, who is of an Unblemiſh'd Reputation, had Stole his Silver Tankard, and his having Swore the Peace (before Sir <hi>Charles Leigh</hi>) againſt the ſaid <hi>Charles Newey,</hi> and brought Conſtables, and ſaid all that Hell and Malice could Invent againſt the ſaid <hi>Charles,</hi> to Mr. <hi>Clavis</hi> the <hi>Dutch Shoo-maker</hi> (and his Neighbours) who Living over againſt the Prince, and Princeſs in the <hi>Pell-Mell,</hi> where the World will find it ſo: The ſaid <hi>Charles</hi> made his Complaint thereof to the Juſtices then at <hi>Hickes-Hall,</hi> who granting him a Search War<g ref="char:EOLhyphen"/>rant, by vertue of which ſome few of the things miſſing were found in his ſaid Brothers Houſe, as can be Juſtified by Mr. <hi>Phipps</hi> the Conſtable, who lives at the <hi>Kings-Head-Tavern</hi> near <hi>Holborn-bars.</hi> as well as moſt of his Deceaſed Brothers Neighbours; the ſaid <hi>John</hi> was thereupon obliged to give Bail to appear at the next Seſſions, but in ſome time after the ſaid <hi>John Newey.</hi> having been long Indiſpoſed, fell Sick and Dyed at his own Houſe.</p>
+            <p n="2">2. During the Sickneſs of the ſaid <hi>John Newey,</hi> the ſaid <hi>Charles</hi> went divers times to his Houſe, with a deſign to be Reconcil'd to him, but found himſelf ſtill prevented by the Malice and Inſtigation of his ſaid Brothers Wife, whoſe de<g ref="char:EOLhyphen"/>ſign appears to have been to hinder her Husband, who hav<g ref="char:EOLhyphen"/>ing no Children, to leave all his Goods, Money, and E<g ref="char:EOLhyphen"/>ſtate to herſelf.</p>
+            <p n="3">3. Imediatly after the Death of the ſaid <hi>John Newey,</hi> the ſaid <hi>Charles</hi> Commenc'd a Suit in Law againſt his ſaid <hi>Brothers</hi> Widdow, in order to make void his Will by reaſon of his Brothers defective Judgment, at the time of his making the ſame, The ſaid Widdow finding herſelf in Danger to be caſt in a Suite of ſo great Conſequence, made it her Cheifeſt Buſineſs to find out and Sollicit againſt the ſaid <hi>Charles,</hi> all ſuch Perſons, with whom ſhe underſtood him to have had any former Difference, thereby to render him incapable of of duely Proſecuting the aforeſaid depending Suite in Law.</p>
+            <p n="4">4. In a few Days after ſhe cauſed the ſaid <hi>Charles</hi> to be Apprehended, and Charged with diverſe Notorious Crimes, <hi>viz.</hi> that of Subornation, of having Two Wives, for Aſ<g ref="char:EOLhyphen"/>ſaulting one <hi>Turner;</hi> And the better to Facilitate her Siniſter, and Malicious Deſignes, by rendering the ſaid <hi>Charles</hi> Ob<g ref="char:EOLhyphen"/>noxous to the Government, he was then alſo charged with having Hung <hi>Tyburn</hi> with Mourning, for the Death of her late Majeſty of ever bleſſed Memory.</p>
+            <p n="5">5. On the 6th of <hi>December</hi> 1699, he was accordingly Indi<g ref="char:EOLhyphen"/>cted for Subborning as was Pretended, one <hi>Jones,</hi> alias <hi>Ambril,</hi> alias <hi>Clement,</hi> to Swear ſome particulars, relating to Coyning againſt the ſaid Widdow <hi>Newey;</hi> having Married one Mrs. <hi>Barbara Ferrour, Hanah Goodridge,</hi> his pretended former Wife being Alive; for aſſaulting the ſaid <hi>Turner.</hi>
+            </p>
+            <p n="6">6. To prove the firſt Charge of Subbornation, the Evi<g ref="char:EOLhyphen"/>dence produced againſt him, was the aforemetion'd <hi>Jones,</hi> alias <hi>Ambrel,</hi> alias <hi>Clement</hi> the truth of whoſe proceedings, with the ſaid <hi>Charles Newey</hi> was thus; One Day whilſt the ſaid <hi>Newey</hi> was at <hi>Docters-Commons,</hi> and being in Diſcourſe with ſome Perſons there concerning his Affairs with the ſaid Widdow, in which he had occaſion to mention ſomething of the ſaid <hi>Hannah Goodridge,</hi> the ſaid <hi>Jones</hi> being preſent, and very attentive, (as was Sworn in Court) to the ſaid Diſcourſe, apply'd therupon to the ſaid <hi>Charles,</hi> telling him he knew enough of the ſaid Widdow and <hi>Hanah Goodridge,</hi> to free the ſaid <hi>Newey</hi> from all the Trouble, which he then ſeem'd to Apprehend, declaring, that he thought himſelf obliged both in point of Conſcience, and Juſtice ſo to do.</p>
+            <p n="7">7. Upon which the ſaid <hi>Newey,</hi> with the ſaid <hi>Jones,</hi> who at that time were altogether Strangers to each other, went before Juſtice <hi>Ellis,</hi> where the ſaid <hi>Jones</hi> voluntarily made Oath, <hi>That in the Company of one</hi> Hanwel, <hi>who is ſince Hang'd for Coyning, and did Lodge for a conſiderable time at the ſaid Wid<g ref="char:EOLhyphen"/>dows Houſe; he had ſeen the ſaid Widdow divers times, Melting ſome quantities of Mettle, to Coyn, or to that Effect, with other particulars.</hi>
+            </p>
+            <p n="8">8 This <hi>Jones</hi> for want of ſufficient Bail, was Committed to <hi>Newgate,</hi> and being in miſerable Circumſtance, was ſo far prevail'd upon by the Enemies of the ſaid <hi>Charles,</hi> that at the aforeſaid Tryal, the ſaid <hi>Jones</hi> pretended, that what<g ref="char:EOLhyphen"/>ſover he had Sworn before Juſtice <hi>Ellis,</hi> relating to the ſaid Widdow, and <hi>Hannah Goodridge,</hi> was falſe, and that he was perſwaded to do it by the ſaid <hi>Charles Newey;</hi> upon the ſaid Tryal, there was alſo mention made of 105 Guineas which the ſaid <hi>Charles Newey</hi> truely lent his Brother, ſome time be<g ref="char:EOLhyphen"/>fore his Death, and received a Note from under his ſaid Bro<g ref="char:EOLhyphen"/>thers Hand for the ſame before Witneſs. He Arreſted his ſaid Brother for the ſaid ſumm before his Death, who then did not deny it, but ſaid he'd Pay'd it, and forgot to take up his Note, and at other times, that he had pay'd more than that came to, for the ſaid <hi>Charles</hi> in his Minority: But his Wife Swore in Court that there never was ſuch a Sum Lent, tho' ſhe had own'd before, that there was to ſeveral of her Neighbours; The ſaid <hi>Jones</hi> alſo Swore that the ſaid Note was forged by the ſaid <hi>Charles,</hi> tho it was Impoſſible for <hi>Jones</hi> to know any thing, relating to the 105 Guineas, un<g ref="char:EOLhyphen"/>leſs by heare ſay; upon which Evidence, the Jury (being Neighbours) or Friends to the ſaid Widdow, and believing what ſhe had ſo often related with Tears, found the ſaid <hi>Charles</hi> Guilty of the ſaid Subbornation and Forgery, tho the known Character of this <hi>Jones,</hi> alias <hi>Ambrel,</hi> alias <hi>Clem<g ref="char:EOLhyphen"/>ent,</hi> is that of being a common Evidence, of having been divers times Perjured, as appears in Mr. <hi>Coopers</hi> Tryal, for the ſuppoſed Murther of Mrs. <hi>Stout,</hi> by the Name of <hi>Clem<g ref="char:EOLhyphen"/>ent,</hi> Page the 31, and his Perjuries in <hi>Weſtminſter-Hall;</hi> of going by ſeveral Names; of Marrying Women for Guineas a peice, and then going to Sea,</p>
+            <p n="9">9. For having Two Wives, the Evidence againſt him was one <hi>Hollingworth,</hi> who for his Crimes in <hi>France,</hi> was mark'd with the <hi>Flower-de-luce,</hi> and who here Paſſes, ſom<g ref="char:EOLhyphen"/>times for a Prieſt, ſomtimes for a Parſon, and is of a poor, but ſcandalous Life and Converſation, the matter which gave ground to this Tryal, was <hi>Hannah Goodridge,</hi> formerly en<g ref="char:EOLhyphen"/>deavoured
+<pb facs="tcp:50017:2"/>to Father a Baſtard on the ſaid <hi>Charles,</hi> but failing of her Intent, us'd all poſſible Endeavours with the ſaid <hi>Hollingworth</hi> to pretend that he knew her to be the Wife of the ſaid <hi>Charles,</hi> upon Notice thereof the ſaid <hi>Charles,</hi> went to the ſaid <hi>Hollingworth</hi> to inform himſelf of her ſaid endea<g ref="char:EOLhyphen"/>vours, upon which the ſaid <hi>Hollingworth</hi> told him, that as he knew of no ſuch thing, and to free the ſaid <hi>Newey,</hi> from any further Apprehenſions, he the ſaid <hi>Hollingworth,</hi> was both willing and deſirous to declare the whole Truth of the ſaid <hi>Hannah Goodridges</hi> Proceedings, and Endeavours with him, relating to the ſaid pretended Marriage before ſome Magiſtrate upon Oath.</p>
+            <p n="10">10 So by Mutual conſent, the ſaid <hi>Newey</hi> and <hi>Hollingworth</hi> firſt went to Mr. <hi>Hatchres</hi> Chambers, who is of a clear Cha<g ref="char:EOLhyphen"/>racter, where he Drew himſelf, what he had a mind to Swear to, which Draught of his, was produced in Court, and Oath made by the ſaid <hi>Hatcher,</hi> that the ſaid <hi>Hollingsworth</hi> had been ſeveral times by himſelf, at the ſaid <hi>Hatchres</hi> Cham<g ref="char:EOLhyphen"/>bers to perſwade him to do it, and Convince the ſaid <hi>Charles,</hi> that he never ſaid he Married him, <hi>&amp;c.</hi> And then the ſaid <hi>Hollingsworth,</hi> and the ſaid <hi>Hatcher,</hi> went before <hi>Roger Me<g ref="char:EOLhyphen"/>rideth</hi> 
+               <abbr>Eſq</abbr> a Maſter in <hi>Chancry,</hi> where the ſaid <hi>Hollingsworth,</hi> made this following Oath.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>I, Phillip Hollingsworth, <hi>Aged</hi> 47 <hi>Years, maketh Oath, that he this Deponant never Married Capt.</hi> Charles Newey <hi>to</hi> Hannah Goodridge <hi>Spinſter, or to any other Woman whatſoever, according to the Church of</hi> England, <hi>Church of</hi> Rome, <hi>or of any other Church whatſoever; But this Deponant Confeſſeth it to be True, that he this Deponant Comply'd with the Malice, and ill in<g ref="char:EOLhyphen"/>tentions of the ſaid</hi> Hannah Goodridge <hi>to Proſecute the ſaid</hi> Charles Newey, <hi>in relation to the ſaid pretended Marriage, in order to obtain or Extort from the ſaid Capt.</hi> Newey, <hi>a Main<g ref="char:EOLhyphen"/>tenance, or Proviſion, for the ſaid</hi> Hannah Goodridge <hi>as his pre<g ref="char:EOLhyphen"/>tended Wife, Sign'd</hi>
+                        </p>
+                        <closer>
+                           <signed>Phill. Hollingsworth.</signed>
+                           <dateline>
+                              <date>Jurat 10 die Marij 1699.</date>
+                           </dateline>
+                        </closer>
+                        <postscript>
+                           <p>Coram me, <hi>Rog. Merideth.</hi>
+                           </p>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p n="11">11. This Affidavit was produced in Court, and the ſaid <hi>Hollingsworth</hi> Confeſſed he had Sworn the ſame, but pretend<g ref="char:EOLhyphen"/>ed that he was forced thereto, by the ſaid <hi>Charles,</hi> and in the ſaid Tryal, Swore that he Married the ſaid <hi>Hannah,</hi> to the ſaid <hi>Charles,</hi> but in a Tavern, without a Licence, or a<g ref="char:EOLhyphen"/>ny Witneſſeſs being by, but themſelves, and done in Latin. The Jury found the ſaid <hi>Charles</hi> Guilty, tho no Mortal could belive him Married to her and keep his reaſon; ſhe was a Servant where the ſaid <hi>Charles</hi> Lodged, and was to help him to a Fortune, by the Intereſt ſhe pretended to have, with a Young Lady, where ſhe formerly Lived, to carry on which Intrigue, he was in the Countrey with her; but when Sworn to Cohabit with her, he was in a Noble Peers Family, which can be eaſily prov'd; When ſhe was asked in Court, what Portion Mr. <hi>Newey</hi> had with her, ſhe anſwred ſome Diſhes, Kettles and a Featherbed; An Inviting Bargain.</p>
+            <p n="12">12. The 4th Crime he was Charged with, was Hanging <hi>Tyburn</hi> with Mourning. His Enemies thought fit not to pro<g ref="char:EOLhyphen"/>ceed therein, being Senſible, that he could not only make his Innocency therein appear, but alſo prove that the ſaid Report Originally was both Groundleſs and Falſe; tho the ſaid Widdow Swore, the ſaid <hi>Charles</hi> did it, as appears by his Commitment, and that he had often acknowledged it to her. This is the height of Wickedneſs, and only what ſhe could be Guilty of. Can there be a greater Inſtance of the ſaid <hi>Charles</hi>'s being Innocent of every thing he's Charg'd with, that the <hi>Gallows</hi> was never Hung with Mourning? Does any thing ſo much Demonſtrate the ſaid Widdow's Perjury, and Deſigns in accompliſhing her Brothers Ruine, that ſhe might be ſure of what ſhe ſo baſely got, to his Prejudice.</p>
+            <p n="13">13. He humbly Intreats, that it may be Obſerved, that the only reaſon, or Motive that mov'd the ſaid Widdow to Charge him with, and have him Proſecuted for theſe Crimes, was only to Inſure herſelf, and the ſaid Suite in Law, con<g ref="char:EOLhyphen"/>cerning his Brothers Will: The Witneſs againſt him own'd themſelves Perjured, both having Sworn the Contrary before that time, the one before Juſtice <hi>Ellis,</hi> and the other before a Maſter in <hi>Chancrey,</hi> one under pretence, that he did not know what an Oath meant, tho he's a known Evidence in <hi>Weſtminſter-Hall,</hi> a Perjur'd one in Mr. <hi>Cooper's</hi> Tryal, and a Villain by Profeſſion; the other that he was forced to it; Was ever Man before him forced to Forſwear himſelf in <hi>Chancery?</hi> He might as well be forced to Committ Murther, and then ſay he did not know what he did, or Robb and ſay, that it was Neceſſity that forc'd him to it; the Law has no Regard to ſuch Excuſes; The believing on Perjur'd wretenes is confounding or right and wrong Con<g ref="char:EOLhyphen"/>verting the very order of all things. Can any one be ſo eaſily Impos'd up<g ref="char:EOLhyphen"/>on, as to Imagin, that he who will Forſwear himſelf at one time, will not be brought to do it at another, or when ever he finds it his Intereſt ſo to do, and that if the ſaid <hi>Charles,</hi> had Suborn'd this Fellow as is pretended, it muſt have been to have kept him Company in Swearing againſt his Siſter, which never was: Is Perjury to be Encouraged, or a thing to bleſs God for, or a Subject to begg a Petition upon, of any real uſe to a Society of Men. If ſuch Wretches Oathes as theſe are taken, our Judges and Juries will paſs by the Guilty, and Deſtroy the Innocent. A known Highway-Man when taken, has no way to come off, but his turning Evidence, by which hee'l ſave his Life and get Money to boot; what Innocent Perſons will he not Accuſe to make up his Number: If theſe things be ſuffered, what certainty has any Man, of his Life or his Eſtate. Truth ſure, cannot Ar<g ref="char:EOLhyphen"/>ragn the Juſtice of our Nation whoſe Cheifeſt bleſſings is Liberty, it would be hard to be <hi>Engliſh-Men,</hi> and to have no other Benefit by our Births, then the Freſh Air, or Sun Shine; 'Its Impoſſible to Inſert one Quarter of the Af<g ref="char:EOLhyphen"/>fidavits, Letters, Notes, and what would certainly Clear him, in his Cir<g ref="char:EOLhyphen"/>cumſtances, which are worſe than, he's willing to Expreſs, or let the World know: Every one's Brib'd to uſe him Ill, and get him believ'd the worſt of Men, the ſaid Widdow to make ſure of his Ruine, ſhe that was but a Servant Maid, to his ſaid Brother, by procuring him a greater Num<g ref="char:EOLhyphen"/>ber of Enemies, and Rendering him Obnoxous to the Government, in Charging him with Hanging the <hi>Gallowes</hi> in Mourning; having gain'd her Ends, (as ſhe Imagins) in his being Thrice Pillory'd, once before her own Door; A pretty Credit or reward for her Husbands Favours, Burnt in the Hand, and Secured in Priſon, by a Fine of 320 <hi>l.</hi> ſhe Judg'd it not Conve<g ref="char:EOLhyphen"/>nient to make any further uſe of that Alligation, leaſt her Mallice, and ſin<g ref="char:EOLhyphen"/>iſter Proceedings ſhould thereby be made appear: By theſe proceedings, he hath loſt all hopes of any Benefit by his Brothers Will, is rendred uncaple of ſuing for ſeveral Debts of conſiderable Value: Depriv'd of the Expecta<g ref="char:EOLhyphen"/>tion of a Conſiderable Poſt, which he'd reaſon to hope for, through the Intereſt that was made for him by divers Perſons of Quallity and others; he's Robb'd of his Honour and Reputation, which with great Difficulty, Hardſhip and Danger, he had Purchas'd, and is Abridg'd of his Liberty, by a Fine which is not in his Power to Diſcharge.</p>
+            <p n="14">14. And he ſolomnly Proteſts, that if he is not perfectly Innocent, of all and every of the aforeſaid Crimes, or if he knows any other Reaſon, or Motive that could induce the ſaid Widdow <hi>Newey,</hi> or the Witneſeſs to Charge him therewith, beſides what is already related, it being what he Vow'd when he thought himſelf a Dying: He beggs the Almighty may never Pro<g ref="char:EOLhyphen"/>ſper him in this World, nor his Sins be forgiven him in the Next.</p>
+            <p n="15">15. As for his Comportment in regard of the Govrnment, he reſts aſſured that there is not one perſon of either Honour or Credit to be found in the whole Kingdom, that will Charge him with the leaſt Diſreſpect thereunto.</p>
+            <p n="16">16. <hi>And tho' he hath through Indiſcretion been an Enemy to himſelf, yet ſee<g ref="char:EOLhyphen"/>ing he hath never been charg'd in all his whole Life before his preſent Misfortunes with any thing unbecoming a Gentleman, he hopes the peruſal of this Caſe will prove acceptable to thoſe who through no other cauſe, but the Malicious Aſperſions of his Enemies, had entertaind an Evil Impreſſion of him; the only thing he Wiſhes for, is that his Enemies may never Die until they acknowledge his Innocence, and their own Malice: the World ſees and knows, that there was not a Creature that Swore againſt him, but what own'd himſelf Perjur'd; ſo he may be Innocent, and no Affront to thoſe who believ'd him Guilty: He's Proſecuted by a Siſter in Law, who does not think her ſelf ſecure till ſhe has his Life. Thoſe that Reproach us with any thing we are not Guilty of, tell us we ought to Afflict our ſelves, no more than if they told us we were Sick, when we were Well. And tho' the ſaid</hi> Charles <hi>did appear before Juſtice</hi> Ellis <hi>with this</hi> Jones, <hi>and was often with him for the Reaſons aforeſaid to his great Misfortunes, yet in that it was not alledg'd by his very Enemies that he did ever make uſe of him at</hi> Doctors-Commons, <hi>or where elſe he had occaſion as he muſt have done; had he Subornd one who owns himſelf Perjur'd, and of no Credit, and not to be depended upon for any one thing, all which cannot but be admitted as a great mark of his Innocency, and being Barbarouſly wrong'd as alſo that he never in the leaſt obſconded, notwithſtanding his Knowledge of his Enemies Malice which he muſt have been a Mad Man not to have done had he in the leaſt ſuſpected himſelf Guilty, of ſo much as of a thought of what he is Charg'd with.</hi>
+            </p>
+            <p>
+               <hi>Now let the World believe if they can, that the ſaid</hi> Charles Newey <hi>is Guilty of any one thing that's laid to his Charge, I ſay now Mr.</hi> Allen <hi>the famous</hi> Sub-Ordinary <hi>of</hi> Newgate <hi>and a promoter of his Misfortunes is Married to his Siſter, or raither Malicious Proſecuter, But I am Dumb and ſhall only aſſert that no Creature has never been more wrong'd then.</hi>
+            </p>
+            <closer>
+               <signed>Newey.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="advert">
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>AT the fartheſt Houſe on the Left-hand, in</hi> Blew-ball Court, <hi>in</hi> Salisbury-Court, Fleet-ſtreet, (<hi>being the firſt Court on the Left-hand over againſt</hi> Salisbury-Square) <hi>Gentlemen,</hi> &amp;c. <hi>may have an Intereſt made to Inveſt them in Employments ſuitable to their ſeveral Qualities and Capacities. We have now theſe Places to diſpoſe of,</hi> viz. 4 <hi>in the Country,</hi> 2 <hi>upwards of</hi> 100 <hi>l.</hi> per Ann. <hi>good Perquiſites for Life,</hi> 1 <hi>of</hi> 70 <hi>l. and</hi> 1 <hi>of</hi> 50 <hi>l.</hi> per Ann. <hi>Sallaries, the</hi> 2 <hi>firſt to be acted by Deputies, the others for Life, alſo in the City,</hi> viz. 2 <hi>in the Law for Life, valued at upwards of</hi> 200 <hi>l.</hi> per Ann. <hi>each,</hi> 1 <hi>of</hi> 1200 <hi>l. a Year another of</hi> 700 <hi>l. per Ann. Sallary, good Perquiſites, (in the Law, and for Life alſo)</hi> 3 <hi>Places of upwards of</hi> 100 <hi>l. per Ann.</hi> 5 <hi>Places of upwards of</hi> 60 <hi>l. per Ann. Sallaries, moſt for Life, and may be managed by Deputies; at the other end of the Town,</hi> 1 <hi>Place of</hi> 200 <hi>l. per Ann.</hi> 3 <hi>of upwards of</hi> 100 <hi>l. per Ann. with many other Places too long here to Inſert, but we refer to our Bills publiſhed in moſt Coffee-houſes. We have now an opportunity of ſerving ſeveral Perſons, who Write a good Hand, and can give Security. We Buy and Sell Eſtates, Houſes, Ground Rents,</hi> &amp;c. <hi>procure Money on good Security</hi> &amp;c. <hi>We ſpeedily and faith<g ref="char:EOLhyphen"/>fully Sollicite all ſorts of Cauſes depending in the Courts of Law and Equity, Trea<g ref="char:EOLhyphen"/>ſury, Navy-Office,</hi> &amp;c. <hi>For the Satisfaction of the Publick, we think fit to add, that the Original Undertaker of this Buſineſs in</hi> England <hi>was Mr.</hi> A. C. <hi>Deceaſ<g ref="char:EOLhyphen"/>ed, by whom and us (ſome of us being near Relations of the ſaid Mr.</hi> C.) <hi>it has been ſucceſsfully Managed upwards of</hi> 30 <hi>Years; all other Bills pretending to our Buſineſs not being of a Years ſtanding. Our chief Undertaker now is a Perſon of Quality; well known to many of the principal Nobility and Gentry, of this Kingdom.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>LONDON, Printed by <hi>Jer. Wilkins,</hi> near <hi>Fleet-ſtreet,</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
